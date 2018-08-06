@@ -1,0 +1,133 @@
+﻿body, td, input, select, textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif, SimSun;
+	font-size:12px;
+}
+#righttables
+{
+	width:720px;
+	vertical-align:middle;
+	border-color:#e1e1e1;
+	padding-left:20px;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-style:solid;
+	
+	border-width:1px;
+	}
+	#righttables0
+{
+	width:720px;
+	vertical-align:middle;
+	border-color:#e1e1e1;
+	padding-left:0px;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-style:solid;
+	
+	border-width:1px;
+	}
+	#righttablenonborder
+{
+	width:720px;
+	vertical-align:middle;
+	padding-left:20px;
+	
+	}
+#lefttables
+{
+	width:190px;
+	border:1px;
+	padding-left:20px;
+	padding-top:20px;
+	vertical-align:middle;
+	border-color:#e1e1e1;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-style:solid;
+	}
+#menutable
+{
+	width: 100%;
+	border-left-color:Silver;
+	border-right-color:Silver;
+	border-top-color:Silver;
+	border-bottom-color:Silver;
+	height: 15px
+	}
+#toptable
+{
+	width: 100%;
+	height: 15px
+	}
+#minsidesorttable
+{
+	width:720px;
+	padding-left:20px;
+	padding-top:20px;
+	vertical-align:middle;
+	border-color:#e1e1e1;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-style:solid;
+	
+	border-width:1px;
+	}
+#flexibletable
+{
+	padding-left:20px;
+	padding-top:20px;
+	vertical-align:middle;
+	border-color:#e1e1e1;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-style:solid;
+	border-width:1px;
+	}
+	#factortable
+{
+	padding-left:20px;
+	padding-top:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+	border-color:#00b000;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-style:solid;
+	border-width:1px;
+	width:200px;
+	}
+#headtr
+{
+	font-weight:bold;
+	height:35px;
+	}
+#helptr
+{
+	border-left-style:solid;
+	border-right-style:solid;
+	border-left-color:White;
+	border-right-color:White;
+	height:35px;
+	width: 950px;
+	}
+#righttalbes.column
+{
+	padding-left:20px;
+	}
+#minsidesorttable.row
+{
+	height:20px;
+	}
+#repeatstyle
+{
+	width:115px;
+	padding-left:3px;
+	padding-right:5px;
+	}
+
