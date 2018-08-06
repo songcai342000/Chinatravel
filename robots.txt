@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /Order.aspx
+Disallow: /reisetips.xml
+Disallow: /kina.xml
+Disallow: /rotatepic.xml
+

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+  <Ad>
+
+    <ImageUrl>images/littlegirl.jpg</ImageUrl>
+    <Width>285</Width>
+
+    <Height>175</Height>
+
+    <NavigateUrl>Default.aspx</NavigateUrl>
+
+    <AlternateText>DotNetCurry Home Page</AlternateText>
+
+    <Keyword>small</Keyword>
+
+  </Ad>
+
+  <Ad>
+
+    <ImageUrl>images/food.jpg</ImageUrl>
+    <Width>285</Width>
+
+    <Height>175</Height>
+
+    <NavigateUrl>Default.aspx</NavigateUrl>
+
+    <AlternateText>SQL Server Curry Home Page</AlternateText>
+
+    <Keyword>small</Keyword>
+
+  </Ad>
+
+  <Ad>
+
+    <ImageUrl>images/forbiddencity.jpg</ImageUrl>
+
+    <Width>285</Width>
+
+    <Height>175</Height>
+
+    <NavigateUrl>Default.aspx</NavigateUrl>
+
+    <AlternateText>dotnetcurry.com Write For Us</AlternateText>
+
+    <Keyword>small</Keyword>
+
+  </Ad>
+  <Ad>
+
+    <ImageUrl>images/huangguoshu1.jpg</ImageUrl>
+
+    <Width>285</Width>
+
+    <Height>175</Height>
+
+    <NavigateUrl>Default.aspx</NavigateUrl>
+
+    <AlternateText>dotnetcurry.com Write For Us</AlternateText>
+
+    <Keyword>small</Keyword>
+
+  </Ad>
+  <Ad>
+
+    <ImageUrl>images/lion.jpg</ImageUrl>
+
+    <Width>285</Width>
+
+    <Height>175</Height>
+
+    <NavigateUrl>Default.aspx</NavigateUrl>
+
+    <AlternateText>dotnetcurry.com Write For Us</AlternateText>
+
+    <Keyword>small</Keyword>
+
+  </Ad>
+
+</Advertisements>
